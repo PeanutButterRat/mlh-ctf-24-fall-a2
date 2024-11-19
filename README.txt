@@ -1,0 +1,1 @@
+Our team has located a private repository that seems to be hiding a cryptic message, but something seems... off. Our analysis indicates the Python script might have been altered in some way. Try to dig through the project and figure out how to retrieve the original source code and decode the flag.
